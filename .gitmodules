@@ -1,0 +1,18 @@
+[submodule "external/cpp-httplib"]
+	path = external/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "external/data-compressor"]
+	path = external/data-compressor
+	url = https://github.com/CenterForSecureEnergyInformatics/data-compressor.git
+[submodule "external/qoixx"]
+	path = external/qoixx
+	url = https://github.com/wx257osn2/qoixx.git
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/nlohmann/json.git
+[submodule "external/toml11"]
+	path = external/toml11
+	url = https://github.com/ToruNiina/toml11.git
+[submodule "external/websocketpp"]
+	path = external/websocketpp
+	url = https://github.com/zaphoyd/websocketpp.git
